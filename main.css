@@ -1,4 +1,9 @@
 @font-face {
-  font-family: HannahsMessyHandwriting;
-  src: url(hannahs-messy-handwriting.ttf);
+  font-family: hannahsMessyHandwriting;
+  src: url('hannahs-messy-handwriting.ttf');
+}
+
+p {
+  font-family: 'hannahsMessyHandwriting';
+  font-size: 50px;
 }
